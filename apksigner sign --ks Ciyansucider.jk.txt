@@ -1,1 +1,0 @@
-apksigner sign --ks C:\iyansucider.jks  --ks-key-alias iyansucider --out C:\signed.apk C:\com.xiaomi.getapps.signature.verification.apk
