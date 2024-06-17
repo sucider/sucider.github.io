@@ -5,9 +5,9 @@
       "select_main_ads"           : "ADMOB",
       "select_backup_ads"         : "APPLOVIN-D",
 
-      "main_ads_banner"           : "null",
-      "main_ads_intertitial"      : "null",
-      "main_ads_native"           : "null",
+      "main_ads_banner"           : "ca-app-pub-7249214600714373/5193326081",
+      "main_ads_intertitial"      : "ca-app-pub-7249214600714373/1163894812",
+      "main_ads_native"           : "ca-app-pub-7249214600714373/8850813146",
 
       "open_ads"                  : "null",
 
